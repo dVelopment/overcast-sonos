@@ -67,4 +67,4 @@ I thought it would be fun and maybe [@marcoarment](https://github.com/marcoarmen
 
 Yeah! If you want to make modifications or want to control your own instance for privacy reasons, you can simply use this "Deploy to Heroku" button to quickly set up your own app in minutes.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/josh/overcast-sonos)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dVelopment/overcast-sonos)
